@@ -17,6 +17,14 @@ body {
   }
 }
 
+a:link {
+  color: #3F72D8;
+}
+
+a:visited {
+  color: #3F72D8;
+}
+
 h2 {
 	text-transform: uppercase;
 	letter-spacing: .2em;
